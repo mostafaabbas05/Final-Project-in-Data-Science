@@ -1,4 +1,4 @@
-# **Bike Share Dataset Analysis**د
+# **Bike Share Dataset Analysis**
 
 ## Project Overview
 This project focuses on analyzing a bike share dataset to gain insights into user behavior, trip durations, and other key patterns. The dataset includes a variety of information about bike trips, including user demographics, trip details, and station information. The goal is to identify significant trends and correlations to better understand bike share usage.
