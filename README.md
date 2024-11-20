@@ -21,7 +21,7 @@ Trends over time, such as seasonality in bike share usage.
 
 ## Getting Started
 To get started with this project, follow these steps:
-
+ 
 1- Clone the Repository
 Begin by cloning this repository to your local machine. This will allow you to explore the project and its contents.
 
